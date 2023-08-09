@@ -2,7 +2,7 @@ import openai
 import gradio
 from typing_extensions import Annotated, deprecated
 
-openai.api_key = "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"
+openai.api_key = "#####
 
 # emotions of the system
 messages = [{"role": "system",
