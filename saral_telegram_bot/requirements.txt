@@ -1,0 +1,5 @@
+openai==0.27.0
+python-telegram-bot==13.7
+gTTS==2.2.2
+langdetect==1.0.9
+moviepy==1.1.3
